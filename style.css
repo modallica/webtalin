@@ -1,5 +1,10 @@
 /*
-Theme Name: My Theme
-Author: Your Name
+Theme Name: My Sample Theme
+Author: Mossi Bratini
 Version: 1.0
+Description: A sample WordPress theme synced with GitHub
 */
+body {
+    font-family: Arial, sans-serif;
+    background: #f5f5f5;
+}
