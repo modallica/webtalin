@@ -42,7 +42,7 @@ button:focus{
     .wp-block-navigation ul li a:hover,
     .wp-block-navigation ul li a:focus,
     .wp-block-navigation .current-menu-item a{
-        color: var(--wp--preset--color--secondary) !important;
+        color: #ff00d9 !important;
     }
     .wp-block-navigation .has-child .wp-block-navigation__submenu-container{  
         border-top: 2px solid var(--wp--preset--color--secondary);
@@ -57,7 +57,7 @@ button:focus{
     .wp-block-navigation__submenu-container .current-menu-item a{
         background-color: var(--wp--preset--color--secondary) !important;
         color: var(--wp--preset--color--heading) !important;
-        border-color: #0000;
+        border-color: #ff00d9;
     }
     .main-header .menu-header .header-menu-box nav ul.wp-block-navigation__container{
         gap: 22px;
@@ -73,7 +73,7 @@ button:focus{
 .wp-block-navigation__responsive-container.is-menu-open li a:focus,
 .wp-block-navigation__responsive-container.is-menu-open li.current-menu-item a{
     background-color: transparent !important;
-    color: var(--wp--preset--color--primary) !important;
+    color: #ff00d9 !important;
 }
 .wp-block-navigation .wp-block-navigation__submenu-icon{
     background: transparent;
@@ -1208,3 +1208,4 @@ footer.custom-footer-class{
     margin-top: 0 !important;
 
 }
+
