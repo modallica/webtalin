@@ -15,14 +15,14 @@ button:focus{
         outline: 2px solid var(--wp--preset--color--secondary) !important;
     }
     .wp-block-navigation ul li a{
-        border-bottom: 1px solid #0000;
+        border-bottom: 1px solid #ff00d9;
         transition: 1s;
     }
     .main-header .menu-box .header-menu ul a:hover,
     .wp-block-navigation ul li a:hover,
     .wp-block-navigation ul li a:focus,
     .wp-block-navigation .current-menu-item a{
-        color: var(--wp--preset--color--secondary) !important;
+        color: #ff00d9 !important;
     }
     .wp-block-navigation .has-child .wp-block-navigation__submenu-container{  
         border-top: 2px solid var(--wp--preset--color--secondary);
@@ -37,7 +37,7 @@ button:focus{
     .wp-block-navigation__submenu-container .current-menu-item a{
         background-color: var(--wp--preset--color--secondary) !important;
         color: var(--wp--preset--color--heading) !important;
-        border-color: #0000;
+        border-color: #ff00d9;
     }
     .main-header .menu-header .header-menu-box nav ul.wp-block-navigation__container{
         gap: 22px;
