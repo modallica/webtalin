@@ -761,6 +761,7 @@ p.scroll-top {
     }
     .banner-section .banner-content .banner-title{
         font-size: 30px !important;
+        color: #ff0000
     }
     .banner-section .banner-bg{
         min-height: 600px !important;
@@ -823,6 +824,7 @@ p.scroll-top {
     }
     .banner-section .banner-content .banner-title{
         font-size: 35px !important;
+        color: #ff0000
     }
     .gallery-section .gallery-content figure.gallery-img{
         height: 240px !important;
