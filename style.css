@@ -1169,6 +1169,7 @@ footer .footer-widgets .footer-box-3 .footer-phone a,
 footer .footer-widgets .footer-box-3 .footer-mail a,
 footer .footer-widgets .footer-box-3 .footer-address a{
     text-decoration: none;
+    text-coloe: red;
 }
 .footer-box-2 .wp-block-list li a:hover,
 footer .wp-block-social-links a:hover,
@@ -1205,4 +1206,5 @@ footer .footer-widgets .footer-box-3 .footer-address:after{
 }
 footer.custom-footer-class{
     margin-top: 0 !important;
+
 }
